@@ -1,0 +1,4 @@
+**/.venv/
+plugabble_poc_app.egg-info
+build/
+**/__pycache__/
